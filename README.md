@@ -1,0 +1,58 @@
+✔ Folde ExplorerCreator_Setup_v1.0.0
+<p align="center">
+  🔥 Simple **Multiple Folder - File Creator** Tool for Windows 🔥
+</p>
+<p align="center">
+
+<a href="https://github.com/Sakib-developer/Folder-File-Create/releases/latest">
+  <img src="https://img.shields.io/badge/Latest%20Release-v1.0.0-blue?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Sakib-developer/Folder-File-Create/releases/download/v1.0.0/FolderExplorerCreator_Setup_v1.0.0.exe">
+  <img src="https://img.shields.io/badge/Download%20Setup%20(EXE)-green?style=for-the-badge&logo=windows" />
+</a>
+
+</p>
+## 📌 Features
+- Fast and multiple folder files creation tool
+- Simple UI installer
+- Lightweight Windows app
+
+---
+
+## 📥 How to Install
+1. Download: 'FolderExplorerCreator_Setup_v1.0.0.exe'
+2. Double click on downloaded **.exe** file
+3. Next → Next → Install
+4. click on finish
+
+
+---
+
+## 🛠 How to Use
+1. right click on any "folder" or "Blank area" 
+2. click on "show more options"
+3. Click on "Folder Explorer Creator" option
+4. now open a new Window in which you create folder or files
+5. If you write in Input like this 
+**"Example.text, Example.py"**
+etc.. many more files or Folder name
+So you are generated multiple files or folder
+
+
+---
+
+## 📌 Note
+This is first stable version (v1.0.0)
+More features coming soon.
+
+
+
+## 🔎 Keywords (SEO)
+
+multiple folder creation tool  
+file automation software  
+windows folder creator  
+batch folder generator  
+folder automation app  
+file management tool for windows
